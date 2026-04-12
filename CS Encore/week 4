@@ -1,0 +1,55 @@
+def add(x,y):
+
+return x+y
+
+x = 10
+
+initialize as in call the outside of the cutin pas pass it into the runction 
+
+num = 10 
+
+add(num,5)
+
+num +=1 
+you can increament it outside of the funciton 
+
+
+
+while loops: 
+    terminates when a certian conditon is 
+    
+
+x = 0 
+y = 5
+n = 5
+while x is less than n:
+    x += 1
+    
+while x < n: 
+    x+=1
+    
+print(x)
+>>>>5
+
+
+while loops performs the 
+    then checks the condiiton 
+    
+    
+
+or stantemtn 
+
+    
+if you print a function but do not return the VALUE ITSELF 
+TO RESULT, IT WILLL RETURN NONE 
+
+YOU HAVE TO RETURN THE VARIABLE TO CALL THE VARIABLE OUTIDE OF THE FUNCTION 
+
+            return the value to uupdate to the currennt value 
+        
+        
+        when appending values to a list in a ffor char in s Loop 
+        
+        
+office hours 10 am wedneda GSH 103 
+
